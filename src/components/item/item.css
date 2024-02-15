@@ -1,0 +1,10 @@
+li {
+    text-decoration: none;
+    list-style: none;
+    
+    border-bottom: 2px #fff;
+}
+li a{
+    color: aliceblue;
+    font-size: 1.2rem;
+}

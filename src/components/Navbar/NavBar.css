@@ -1,0 +1,9 @@
+nav{
+    width: 50vw;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
